@@ -12,7 +12,12 @@
 
 # for i in range(1,21):
 #     if i %2 == 0:
-#          print(i)
+#          print(i , "is even")
+
+
+
+
+
 
 # pin = "3244"
 # user_pin = input("what is your pin : ") 
@@ -34,9 +39,9 @@
 
 
 
-user_name = input("enter your name :")
-password = input("enter your password :")
-if user_name == "andria" and password == "goa333":
-    print("login sucsesful")
-else:
-    print("login failed")
+# user_name = input("enter your name :")
+# password = input("enter your password :")
+# if user_name == "andria" and password == "goa333":
+#     print("login sucsesful")
+# else:
+#     print("login failed")
