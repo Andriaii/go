@@ -1,5 +1,5 @@
-black_kid = "walking"
-black_kid_meets = "a boy"
-asks = "what men are you"
-fate =  [ 1."gets punched"2."befriend him"3."run" ]
-chose = input("choose one ;")
+black_kid = " he is walking                    "
+black_kid_meets = "   he sees a boy                       "
+asks = "         asks him  what men are you"
+
+print(black_kid , black_kid_meets,asks)
